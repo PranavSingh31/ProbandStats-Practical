@@ -1,0 +1,1 @@
+sample(c("S","F"),10,replace=T,prob=c(0.9,0.1))

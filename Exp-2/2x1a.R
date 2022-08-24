@@ -1,3 +1,2 @@
-data<-rep(c('G','S','B'),times=c(20,30,50))
+data<-c(rep("G",20),rep("S",30),rep("B",50))
 sample(data,size=10)
-
