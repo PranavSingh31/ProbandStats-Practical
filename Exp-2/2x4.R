@@ -70,3 +70,5 @@ quantile(iris$Petal.Width,0.5)
 #standard deviation and variance
 sd(iris$Petal.Width)
 var(iris$Petal.Width)
+#-------------------------------------------
+summary(iris)
